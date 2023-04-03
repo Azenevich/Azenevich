@@ -12,3 +12,5 @@
 
 Follow Me
 
+[![Azenevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azenevich&show_icons=true&theme=dracula&hide=contribs)](https://github.com/Azenevich/github-readme-stats)
+
