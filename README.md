@@ -1,12 +1,24 @@
+<p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="Hello, I'm" src="./assets/download.gif" /></a></p>
+
 [![Header](https://github.com/Azenevich/Azenevich/blob/main/assets/download.gif)](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
 
 ## I'm a Quality Assurance Engineer with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
 
 ## About me
-- 🐞 QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
-- Follow Me [here](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
+- 🔎 QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
+- ⏩ Follow Me [here](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
 
-### Languages and Tools
+<!--My education-->
+## My education
+
+<!--Additional education-->
+## Additional education
+### [Archive of certificates and diplomas]
+- IT-Academy / Course "Software Testing" / Sep. 2021 - Deс. 2021
+- IT-Academy / Course "Mobile Application Testing" / Jen. 2023 - Feb. 2023
+
+<!--Tools-->
+### Tools
 [![GITHUB](https://img.shields.io/badge/-GITHUB-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
 [![JIRA](https://img.shields.io/badge/-JIRA-5C5C5C?style=flat&logo=jira&logoColor=2580F7)](https://atlassian.com/software/jira/)
 [![QASE](https://img.shields.io/static/v1?label=Q&message=QASE&color=5C5C5C)](https://qase.io/)
