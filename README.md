@@ -12,8 +12,8 @@
 <!--Additional education-->
 ## Additional education
 ### [Archive of certificates and diplomas]
-- IT-Academy / Course "Software Testing" / Sep. 2021 - Deс. 2021
-- IT-Academy / Course "Mobile Application Testing" / Jen. 2023 - Feb. 2023
+- [IT-Academy](https://www.it-academy.by/) / Course "Software Testing" / Sep. 2021 - Deс. 2021
+- [IT-Academy](https://www.it-academy.by/) / Course "Mobile Application Testing" / Jen. 2023 - Feb. 2023
 
 <!--Tools-->
 ### Tools
