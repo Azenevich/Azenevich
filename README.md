@@ -1,6 +1,4 @@
-<p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="Hello, I'm" src="./assets/download.gif" /></a></p>
-
-[![Header](https://github.com/Azenevich/Azenevich/blob/main/assets/download.gif)](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
+<p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
 
 ## I'm a Quality Assurance Engineer with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
 
