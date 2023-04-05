@@ -11,7 +11,7 @@
 
 <!--Additional education-->
 ## Additional education
-### [Archive of certificates and diplomas]
+### [Archive of certificates and diplomas](https://github.com/Azenevich/Certificates)
 - [IT-Academy](https://www.it-academy.by/) / Course "Software Testing" / Sep. 2021 - Deс. 2021
 - [IT-Academy](https://www.it-academy.by/) / Course "Mobile Application Testing" / Jen. 2023 - Feb. 2023
 
