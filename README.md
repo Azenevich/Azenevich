@@ -3,7 +3,8 @@
 ## I'm a Quality Assurance Engineer with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
 
 ## About me
-QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
+- 🐞 QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
+- Follow Me [here](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
 
 ### Languages and Tools
 [![GITHUB](https://img.shields.io/badge/-GITHUB-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
@@ -14,6 +15,5 @@ QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
 [![SIDEQUESTVR](https://img.shields.io/badge/-SIDEQUESTVR-5C5C5C?style=flat&logo=SIDEQUESTVR&logoColor=1B1D1F)](https://sidequestvr.com/apps/applab/0/rating)
 [![FIDDLER](https://img.shields.io/badge/-FIDDLER-5C5C5C?style=flat&logo=fiddler&logoColor=1B1D1F)](https://www.telerik.com/fiddler)
 
-Follow Me
 
 ![Azenevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azenevich&show_icons=true&theme=dracula&hide=contribs)
