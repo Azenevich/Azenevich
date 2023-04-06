@@ -1,7 +1,8 @@
 <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
 
-## I'm a Quality Assurance Engineer with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
+## I'm a **Quality Assurance Engineer** with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
 
+<!--About me-->
 ## About me
 - 🔎 QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
 - ⏩ Follow Me [here](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
