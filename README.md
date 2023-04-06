@@ -1,6 +1,6 @@
 <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
 
-<p><font size="4" face="Leelawadee">I'm a <b>Quality Assurance Engineer</b> with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms</font></p>
+<p><font size="7" face="Leelawadee">I'm a <b>Quality Assurance Engineer</b> with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms</font></p>
 
 ## I'm a **Quality Assurance Engineer** with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
 
