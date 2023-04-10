@@ -24,7 +24,7 @@
 [![MIRO](https://img.shields.io/badge/-MIRO-5C5C5C?style=flat&logo=miro&logoColor=F7C92E&endpoint?url=<https://miro.com/>)](https://miro.com/)
 [![OCULUS](https://img.shields.io/badge/-OCULUS_VR-5C5C5C?style=flat&logo=oculus&logoColor=1B1D1F)](https://www.meta.com/quest/setup/)
 [![SIDEQUESTVR](https://img.shields.io/badge/-SIDEQUESTVR-5C5C5C?style=flat&logo=SIDEQUESTVR&logoColor=1B1D1F)](https://sidequestvr.com/apps/applab/0/rating)
-[![CHARLES](https://img.shields.io/badge/-CHARLES-5C5C5C?style=flat&logo=CHARLES&logoColor=1B1D1F)](https://www.charlesproxy.com/)
+[![CHARLES](https://img.shields.io/badge/-CHARLES-5C5C5C?style=flat&logo=CHARLESPROXY&logoColor=1B1D1F)](https://www.charlesproxy.com/)
 
 
 ![Azenevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azenevich&show_icons=true&theme=dracula&hide=contribs)
