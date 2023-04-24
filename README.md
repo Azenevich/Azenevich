@@ -28,5 +28,6 @@
 [![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-5C5C5C?style=flat&logo=CHARLESPROXY&logoColor=1B1D1F)](https://www.charlesproxy.com/)
 [![ANDROIDSTUDIO](https://img.shields.io/badge/-ANDROIDSTUDIO-5C5C5C?style=flat&logo=ANDROIDSTUDIO&logoColor=3DDC84)](https://developer.android.com/studio)
 [![XCODE](https://img.shields.io/badge/-XCODE-5C5C5C?style=flat&logo=XCODE&logoColor=158DE1)](https://developer.apple.com/xcode/)
+[![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
 
 ![Azenevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azenevich&count_private=true&show_icons=true&theme=dracula)
