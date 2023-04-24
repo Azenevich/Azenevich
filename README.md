@@ -13,7 +13,7 @@
 <!--Additional education-->
 ## Additional education
 ### [Archive of certificates and diplomas](https://github.com/Azenevich/Certificates)
-- [Stepik ](https://stepik.org/catalog)/ Course "Web development for beginners: HTML и CSS"/ Mar. 2023 - Apr. 2023
+- [Stepik ](https://stepik.org/catalog)/ Course "Web development for beginners: HTML and CSS"/ Mar. 2023 - Apr. 2023
 - [IT-Academy](https://www.it-academy.by/) / Course "Mobile Application Testing" / Jan. 2023 - Feb. 2023
 - [IT-Academy](https://www.it-academy.by/) / Course "Software Testing" / Sep. 2021 - Deс. 2021
 
