@@ -72,10 +72,11 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 [![XCODE](https://img.shields.io/badge/-XCODE-5C5C5C?style=flat&logo=XCODE&logoColor=158DE1)](https://developer.apple.com/xcode/)
 [![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
 
-![Azenevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azenevich&count_private=true&show_icons=true&theme=dracula)
 
 <!--Interests-->
 ## 📌 Interests
 - Continuous learning (English, test automation with JavaScript, Cypress, Playwright, Selenium)  
 - VR technologies and innovations in immersive training  
 - Reading, cycling, sports 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azenevich&count_private=true&show_icons=true&theme=dracula)
