@@ -45,7 +45,7 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 - Gained strong analytical, documentation, and communication skills  
 
 <!--My education-->
-## My education
+## 🎓 My ducation
 - **Belarus State Economic University** – Finance and Credit *(2008 – 2010)*  
 - **BIP – University of Law and Social Information Technologies** – Lawyer *(2004 – 2008)* 
 
@@ -61,17 +61,28 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 
 <!--Tools-->
 ### Tools
-[![GITHUB](https://img.shields.io/badge/-GITHUB-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
-[![JIRA](https://img.shields.io/badge/-JIRA-5C5C5C?style=flat&logo=jira&logoColor=2580F7)](https://atlassian.com/software/jira/)
-[![QASE](https://img.shields.io/static/v1?label=Q&message=QASE&color=5C5C5C)](https://qase.io/)
-[![MIRO](https://img.shields.io/badge/-MIRO-5C5C5C?style=flat&logo=miro&logoColor=F7C92E&endpoint?url=<https://miro.com/>)](https://miro.com/)
-[![OCULUS](https://img.shields.io/badge/-OCULUS_VR-5C5C5C?style=flat&logo=oculus&logoColor=1B1D1F)](https://www.meta.com/quest/setup/)
-[![SIDEQUESTVR](https://img.shields.io/badge/-SIDEQUESTVR-5C5C5C?style=flat&logo=SIDEQUESTVR&logoColor=1B1D1F)](https://sidequestvr.com/apps/applab/0/rating)
-[![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-5C5C5C?style=flat&logo=CHARLESPROXY&logoColor=1B1D1F)](https://www.charlesproxy.com/)
-[![ANDROIDSTUDIO](https://img.shields.io/badge/-ANDROIDSTUDIO-5C5C5C?style=flat&logo=ANDROIDSTUDIO&logoColor=3DDC84)](https://developer.android.com/studio)
-[![XCODE](https://img.shields.io/badge/-XCODE-5C5C5C?style=flat&logo=XCODE&logoColor=158DE1)](https://developer.apple.com/xcode/)
-[![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
+[![Jira](https://img.shields.io/badge/-Jira-5C5C5C?style=flat&logo=jira&logoColor=2580F7)](https://www.atlassian.com/software/jira)
+[![Qase](https://img.shields.io/badge/-Qase-5C5C5C?style=flat&logo=qase&logoColor=00E3FF)](https://qase.io/)
+[![TestRail](https://img.shields.io/badge/-TestRail-5C5C5C?style=flat&logo=testrail&logoColor=00E3FF)](https://www.gurock.com/testrail/)
+[![Postman](https://img.shields.io/badge/-Postman-5C5C5C?style=flat&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
+[![Swagger](https://img.shields.io/badge/-Swagger-5C5C5C?style=flat&logo=swagger&logoColor=85EA2D)](https://swagger.io/)
+[![JMeter](https://img.shields.io/badge/-JMeter-5C5C5C?style=flat&logo=apachejmeter&logoColor=D22128)](https://jmeter.apache.org/)
+[![GitHub](https://img.shields.io/badge/-GitHub-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
+[![Git](https://img.shields.io/badge/-Git-5C5C5C?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C5C5C?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
+[![Android Studio](https://img.shields.io/badge/-AndroidStudio-5C5C5C?style=flat&logo=androidstudio&logoColor=3DDC84)](https://developer.android.com/studio)
+[![Xcode](https://img.shields.io/badge/-Xcode-5C5C5C?style=flat&logo=xcode&logoColor=158DE1)](https://developer.apple.com/xcode/)
+[![Chrome DevTools](https://img.shields.io/badge/-DevTools-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
+[![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-5C5C5C?style=flat&logo=charlesproxy&logoColor=1B1D1F)](https://www.charlesproxy.com/)
+[![Fiddler](https://img.shields.io/badge/-Fiddler-5C5C5C?style=flat&logo=fiddler&logoColor=00E3FF)](https://www.telerik.com/fiddler)
+[![Miro](https://img.shields.io/badge/-Miro-5C5C5C?style=flat&logo=miro&logoColor=F7C92E)](https://miro.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-5C5C5C?style=flat&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/)
 
+<!--Languages-->
+## 🌍 Languages
+- **English:** Intermediate+  
+- **Russian:** Native  
+- **Belarusian:** Native  
 
 <!--Interests-->
 ## 📌 Interests
