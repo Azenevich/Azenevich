@@ -91,3 +91,6 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 - Reading, cycling, sports 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Azenevich&count_private=true&show_icons=true&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Azenevich&theme=dracula)
+
