@@ -1,14 +1,53 @@
 <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
 
-## I'm a **Quality Assurance Engineer** with 1+ years of experience in testing of training programs using virtual reality (VR) technology and manual testing of the web platforms 
+## 
+I'm a **Quality Assurance Engineer** with more than 3 years of experience in manual and VR testing.  
+Skilled in test documentation, functional and non-functional testing, performance testing with JMeter, and API testing.  
+Strong analytical mindset, problem-solving abilities, and excellent communication skills for effective collaboration with developers, managers, and customers. 
 
 <!--About me-->
 ## About me
 - 🔎 QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
 - ⏩ Follow Me [here](https://www.linkedin.com/in/anastasiya-zenevich-314278224/)
 
+<!--Skills & Tools-->
+## 🛠️ Skills & Tools
+- **Testing Types:** Functional, Regression, Integration, Black-box, Exploratory, Immersive, API, Performance  
+- **Test Documentation:** Test Plans, Test Cases, Checklists, Bug Reports, Test Result Reports  
+- **Performance Testing:** JMeter  
+- **API Testing:** Postman, Swagger  
+- **Databases:** MySQL, pgAdmin, DBeaver, DB Browser (SQLite, SQLCipher)  
+- **VR Testing:** Oculus Quest 2, Oculus Quest 3, Pico 4  
+- **Test Management:** Qase, TestRail, TestLink, Jira, Confluence, Trello, Miro  
+- **Other Tools:** DevTools, Charles Proxy, Fiddler, Jenkins, Git, GitHub, Visual Studio Code, Android Studio, Xcode  
+
+<!--Work Experience-->
+## 💼 Work Experience
+**QA Engineer – HQSoftware**  
+*Jan 2022 – Present*  
+- Created and maintained test documentation (test plans, test cases, checklists, test result reports)  
+- Conducted manual testing for Web, Mobile, and VR applications  
+- Regression, functional, black-box, integration, and immersive testing  
+- Tested interaction between web and mobile/VR applications  
+- Communicated with customers and developers, clarified requirements  
+- Worked on VR training, medical simulations, and web platforms for international projects  
+
+**QA Engineer / Test Lead – IT-Academy**  
+*Nov 2021 – Dec 2021*  
+- Team management and task planning  
+- Created and updated test documentation (test plans, bug reports, test result reports)  
+- Tested and analyzed requirements  
+- Performed test cases and reported results  
+
+**Head of Department – Banking Sector**  
+*2008 – 2022*  
+- Worked at BNB-Bank and Delta Bank, growing from Specialist to Head of Department  
+- Gained strong analytical, documentation, and communication skills  
+
 <!--My education-->
 ## My education
+- **Belarus State Economic University** – Finance and Credit *(2008 – 2010)*  
+- **BIP – University of Law and Social Information Technologies** – Lawyer *(2004 – 2008)* 
 
 <!--Additional education-->
 ## Additional education
@@ -34,3 +73,9 @@
 [![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
 
 ![Azenevich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azenevich&count_private=true&show_icons=true&theme=dracula)
+
+<!--Interests-->
+## 📌 Interests
+- Continuous learning (English, test automation with JavaScript, Cypress, Playwright, Selenium)  
+- VR technologies and innovations in immersive training  
+- Reading, cycling, sports 
