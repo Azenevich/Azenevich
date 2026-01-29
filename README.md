@@ -1,7 +1,7 @@
 <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
 
 ## 
-I'm a **Quality Assurance Engineer** with more than 3 years of experience in manual and VR testing.  
+I'm a **Quality Assurance Engineer** with more than 4 years of experience in manual and VR testing.  
 Skilled in test documentation, functional and non-functional testing, performance testing with JMeter, and API testing.  
 Strong analytical mindset, problem-solving abilities, and excellent communication skills for effective collaboration with developers, managers, and customers. 
 
