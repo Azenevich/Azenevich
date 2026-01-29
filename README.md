@@ -19,7 +19,7 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 - **Databases:** MySQL, pgAdmin, DBeaver, DB Browser (SQLite, SQLCipher)  
 - **VR Testing:** Oculus Quest 2, Oculus Quest 3, Pico 4  
 - **Test Management:** Qase, TestRail, TestLink, Jira, Confluence, Trello, Miro  
-- **Other Tools:** DevTools, Charles Proxy, Fiddler, Jenkins, Git, GitHub, Visual Studio Code, Android Studio, Xcode  
+- **Other Tools:** DevTools, VisBug, Charles Proxy, Fiddler, Jenkins, Git, GitHub, Visual Studio Code, Android Studio, Xcode  
 
 <!--Work Experience-->
 ## 💼 Work Experience
