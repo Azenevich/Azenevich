@@ -1,5 +1,4 @@
-<p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
-
+<!-- <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=104BF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer" alt="Typing SVG" /></a>
 
 ## 
