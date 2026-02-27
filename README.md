@@ -78,7 +78,7 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 [![JMeter](https://img.shields.io/badge/-JMeter-5C5C5C?style=flat&logo=apachejmeter&logoColor=D22128)](https://jmeter.apache.org/)
 [![Postman](https://img.shields.io/badge/-Postman-5C5C5C?style=flat&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-5C5C5C?style=flat&logo=swagger&logoColor=85EA2D)](https://swagger.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-5C5C5C?style=flat&logo=mysql&logoColor=4285F4)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-5C5C5C?style=flat&logo=mysql&logoColor=00E3FF)](https://www.mysql.com/)
 [![pgAdmin](https://img.shields.io/badge/-pgAdmin-5C5C5C?style=flat&logo=postgresql&logoColor=4285F4)](https://www.pgadmin.org/)
 [![DBeaver](https://img.shields.io/badge/-DBeaver-5C5C5C?style=flat&logo=dbeaver&logoColor=372923)](https://dbeaver.io/)
 [![SQLite](https://img.shields.io/badge/-SQLite-5C5C5C?style=flat&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
