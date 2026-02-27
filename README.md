@@ -1,5 +1,6 @@
 <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=104BF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=104BF7&center=true&vCenter=true&width=435&lines=Quality+Assurance+Engineer" alt="Typing SVG" /></a>
 
 ## 
 I'm a **Quality Assurance Engineer** with more than 4 years of experience in web, mobile and VR testing.  
