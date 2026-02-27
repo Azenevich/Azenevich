@@ -1,17 +1,11 @@
 <!-- <p align="center"><a href="https://linkedin.com/in/anastasiya-zenevich-314278224/"><img width="80%" alt="" src="./assets/download.gif"/></a></p> -->
 <!-- https://readme-typing-svg.herokuapp.com/ :-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=990&color=2A87F7&background=B4C4C400&center=true&vCenter=true&width=435&lines=Building+Quality+Through+Testing" alt="Typing SVG" /></a>
-<p align="justify">
-I'm a <strong>Quality Assurance Engineer</strong> with more than 4 years of experience in web, mobile, and VR testing.
-</p>
+## 
+I'm a **Quality Assurance Engineer** with more than 4 years of experience in web, mobile and VR testing.  
+Participated in the full product lifecycle: from clarifying requirements with customers to preparing test result reports. Skilled in test documentation, functional and non-functional testing, API and database testing, as well as VR application validation. I combine attention to detail with understanding of business goals, ensuring high-quality product delivery.  
+Strong analytical mindset, problem-solving abilities, and excellent communication skills for effective collaboration with developers, managers, and customers. 
 
-<p align="justify">
-I have participated in the full product lifecycle — from clarifying requirements with customers to preparing comprehensive test result reports. My expertise includes test documentation, functional and non-functional testing, API and database validation, as well as VR application testing.
-</p>
-
-<p align="justify">
-I combine strong attention to detail with a clear understanding of business goals, ensuring high-quality product delivery. I possess an analytical mindset, strong problem-solving abilities, and excellent communication skills that enable effective collaboration with developers, managers, and customers.
-</p>
 <!--About me-->
 ## About me
 - 🔎 QA Engineer at [HQSoftware](https://hqsoftwarelab.com/)
