@@ -70,37 +70,29 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 - [IT-Academy](https://www.it-academy.by/) / Course "Software Testing" / Sep. 2021 - Deс. 2021
 
 <!--Tools-->
-- Performed database testing (pgAdmin, DBeaver, SQLite / SQLCipher)
-- Conducted performance testing using JMeter for cloud load analysis (basic level)
-- Participated in testing process improvements
-- Mentored junior testers and supported onboarding
-- Tested interaction between web and desktop/mobile/VR applications  
-- Collaborated closely with developers and stakeholders throughout the testing lifecycle
-- Worked on VR training, medical simulations, and web platforms for international projects  
-- Reported bugs in Jira and prepared project documentation and test reports
+
 ### Tools
-[![Jira](https://img.shields.io/badge/-Jira-5C5C5C?style=flat&logo=jira&logoColor=2580F7)](https://www.atlassian.com/software/jira)
 [![Qase](https://img.shields.io/badge/-Qase-5C5C5C?style=flat&logo=qase&logoColor=00E3FF)](https://qase.io/)
 [![TestRail](https://img.shields.io/badge/-TestRail-5C5C5C?style=flat&logo=testrail&logoColor=00E3FF)](https://www.gurock.com/testrail/)
+[![Jira](https://img.shields.io/badge/-Jira-5C5C5C?style=flat&logo=jira&logoColor=2580F7)](https://www.atlassian.com/software/jira)
+[![JMeter](https://img.shields.io/badge/-JMeter-5C5C5C?style=flat&logo=apachejmeter&logoColor=D22128)](https://jmeter.apache.org/)
 [![Postman](https://img.shields.io/badge/-Postman-5C5C5C?style=flat&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
 [![Swagger](https://img.shields.io/badge/-Swagger-5C5C5C?style=flat&logo=swagger&logoColor=85EA2D)](https://swagger.io/)
-[![JMeter](https://img.shields.io/badge/-JMeter-5C5C5C?style=flat&logo=apachejmeter&logoColor=D22128)](https://jmeter.apache.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-5C5C5C?style=flat&logo=mysql&logoColor=4479A1)](https://www.mysql.com/)
 [![pgAdmin](https://img.shields.io/badge/-pgAdmin-5C5C5C?style=flat&logo=postgresql&logoColor=336791)](https://www.pgadmin.org/)
 [![DBeaver](https://img.shields.io/badge/-DBeaver-5C5C5C?style=flat&logo=dbeaver&logoColor=372923)](https://dbeaver.io/)
 [![SQLite](https://img.shields.io/badge/-SQLite-5C5C5C?style=flat&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
 [![SQLCipher](https://img.shields.io/badge/-SQLCipher-5C5C5C?style=flat&logo=sqlite&logoColor=003B57)](https://www.zetetic.net/sqlcipher/)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
-[![Git](https://img.shields.io/badge/-Git-5C5C5C?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C5C5C?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/-AndroidStudio-5C5C5C?style=flat&logo=androidstudio&logoColor=3DDC84)](https://developer.android.com/studio)
-[![Xcode](https://img.shields.io/badge/-Xcode-5C5C5C?style=flat&logo=xcode&logoColor=158DE1)](https://developer.apple.com/xcode/)
-[![Chrome DevTools](https://img.shields.io/badge/-DevTools-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
 [![Charles Proxy](https://img.shields.io/badge/-CharlesProxy-5C5C5C?style=flat&logo=charlesproxy&logoColor=1B1D1F)](https://www.charlesproxy.com/)
 [![Fiddler](https://img.shields.io/badge/-Fiddler-5C5C5C?style=flat&logo=fiddler&logoColor=00E3FF)](https://www.telerik.com/fiddler)
-
+[![Chrome DevTools](https://img.shields.io/badge/-DevTools-5C5C5C?style=flat&logo=googlechrome&logoColor=00E3FF)](https://developer.chrome.com/docs/devtools/)
+[![VisBug](https://img.shields.io/badge/-VisBug-5C5C5C?style=flat&logo=googlechrome&logoColor=4285F4)](https://github.com/GoogleChromeLabs/visbug)
+[![Git](https://img.shields.io/badge/-Git-5C5C5C?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-5C5C5C?style=flat&logo=jenkins&logoColor=D24939)](https://www.jenkins.io/)
-
+[![Android Studio](https://img.shields.io/badge/-AndroidStudio-5C5C5C?style=flat&logo=androidstudio&logoColor=3DDC84)](https://developer.android.com/studio)
+[![Xcode](https://img.shields.io/badge/-Xcode-5C5C5C?style=flat&logo=xcode&logoColor=158DE1)](https://developer.apple.com/xcode/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C5C5C?style=flat&logo=visualstudiocode&logoColor=007ACC)](https://code.visualstudio.com/)
 [![Miro](https://img.shields.io/badge/-Miro-5C5C5C?style=flat&logo=miro&logoColor=F7C92E)](https://miro.com/)
 
 <!--Languages-->
