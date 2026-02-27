@@ -86,8 +86,9 @@ Strong analytical mindset, problem-solving abilities, and excellent communicatio
 [![Swagger](https://img.shields.io/badge/-Swagger-5C5C5C?style=flat&logo=swagger&logoColor=85EA2D)](https://swagger.io/)
 [![JMeter](https://img.shields.io/badge/-JMeter-5C5C5C?style=flat&logo=apachejmeter&logoColor=D22128)](https://jmeter.apache.org/)
 [![pgAdmin](https://img.shields.io/badge/-pgAdmin-5C5C5C?style=flat&logo=postgresql&logoColor=336791)](https://www.pgadmin.org/)
-
-
+[![DBeaver](https://img.shields.io/badge/-DBeaver-5C5C5C?style=flat&logo=dbeaver&logoColor=372923)](https://dbeaver.io/)
+[![SQLite](https://img.shields.io/badge/-SQLite-5C5C5C?style=flat&logo=sqlite&logoColor=003B57)](https://www.sqlite.org/)
+[![SQLCipher](https://img.shields.io/badge/-SQLCipher-5C5C5C?style=flat&logo=sqlite&logoColor=003B57)](https://www.zetetic.net/sqlcipher/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-5C5C5C?style=flat&logo=github&logoColor=FFFFFF)](https://github.com/)
 [![Git](https://img.shields.io/badge/-Git-5C5C5C?style=flat&logo=git&logoColor=F05032)](https://git-scm.com/)
