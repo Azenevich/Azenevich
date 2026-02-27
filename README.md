@@ -5,9 +5,12 @@
 <p align="justify">
 I'm a <strong>Quality Assurance Engineer</strong> with more than 4 years of experience in web, mobile, and VR testing.
 </p>
- 
-Participated in the full product lifecycle: from clarifying requirements with customers to preparing test result reports. Skilled in test documentation, functional and non-functional testing, API and database testing, as well as VR application validation. I combine attention to detail with understanding of business goals, ensuring high-quality product delivery.  
-Strong analytical mindset, problem-solving abilities, and excellent communication skills for effective collaboration with developers, managers, and customers. 
+<p align="justify">
+I have participated in the full product lifecycle - from clarifying requirements with customers to preparing comprehensive test result reports. My expertise includes test documentation, functional and non-functional testing, API and database validation, as well as VR application testing.
+</p>
+<p align="justify">
+I combine strong attention to detail with a clear understanding of business goals, ensuring high-quality product delivery. I possess an analytical mindset, strong problem-solving abilities, and excellent communication skills that enable effective collaboration with developers, managers, and customers.
+</p>
 
 <!--About me-->
 ## About me
