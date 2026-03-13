@@ -62,7 +62,7 @@ I combine strong attention to detail with a clear understanding of business goal
 - Gained strong analytical, documentation, and communication skills  
 
 <!--My education-->
-## 🎓 My ducation
+## 🎓 My education
 - **Belarus State Economic University** – Finance and Credit *(2008 – 2010)*  
 - **BIP – University of Law and Social Information Technologies** – Lawyer *(2004 – 2008)* 
 
