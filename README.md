@@ -48,7 +48,6 @@ I combine strong attention to detail with a clear understanding of business goal
 - Tested interaction between web and desktop/mobile/VR applications  
 - Collaborated closely with developers and stakeholders throughout the testing lifecycle
 - Worked on VR training, medical simulations, and web platforms for international projects  
-- Reported bugs in Jira and prepared project documentation and test reports
 
 **QA Engineer / Test Lead – IT-Academy**  
 *Nov 2021 – Dec 2021*  
