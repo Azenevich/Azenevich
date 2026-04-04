@@ -22,15 +22,15 @@ I combine strong attention to detail with a clear understanding of business goal
 - **Testing Types:** Functional, Regression, Integration, Black-box, Smoke, Exploratory, Usability, Immersive, API, Performance 
 - **Test Documentation:** Test Plans, Test Cases, Checklists, Bug Reports, Test Result Reports
 - **Test Management Systems:** Qase, TestRail, TestLink, Jira, Confluence, 
-- **Performance Testing:** JMeter Basics 
+- **Performance Testing:** JMeter basics 
 - **API Testing:** Postman, Swagger  
 - **Databases:** MySQL, pgAdmin, DBeaver, DB Browser (SQLite, SQLCipher) 
-- **Debugging & Utilities:** Charles Proxy, Fiddler, DevTools, VisBug
+- **Debugging & Utilities:** Charles Proxy, Fiddler, DevTools, VisBug, PerfectPixel
 - **Version Control:** Git, GitHub
-- **CI/CD :** Jenkins Basics
+- **CI/CD :** Jenkins basics
 - **VR Testing:** Oculus Quest 2, Oculus Quest 3, Pico 4  
 - **Mobile & Web testing:** Android (Android Studio), iOS  (Xcode), cross-browser, cross-device
-- **Other Tools:** Visual Studio Code, Miro
+- **Other Tools:** Visual Studio Code, Miro, Figma
 
 <!--Work Experience-->
 ## 💼 Work Experience
@@ -42,6 +42,7 @@ I combine strong attention to detail with a clear understanding of business goal
 - Conducted API testing using Postman and Swagger
 - Performed database testing (pgAdmin, DBeaver, SQLite / SQLCipher)
 - Conducted performance testing using JMeter for cloud load analysis (basic level)
+- Reported bugs in Jira and prepared project documentation and test reports
 - Participated in testing process improvements
 - Mentored junior testers and supported onboarding
 - Tested interaction between web and desktop/mobile/VR applications  
